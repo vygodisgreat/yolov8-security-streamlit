@@ -1,0 +1,5 @@
+cv2-python
+ultralytics
+supervision
+streamlit
+st_pages
